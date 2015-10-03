@@ -1,0 +1,25 @@
+{
+  "name": "sd-expires",
+  "version": "0.0.1",
+  "description": "Check if a Facebook access token expired",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulomcnally/sd-expires.git"
+  },
+  "keywords": [
+    "facebook",
+    "expires",
+    "selfie",
+    "discount"
+  ],
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulomcnally/sd-expires/issues"
+  },
+  "homepage": "https://github.com/paulomcnally/sd-expires#readme"
+}
